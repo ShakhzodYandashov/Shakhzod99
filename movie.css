@@ -1,0 +1,20 @@
+body
+{
+	background:url(kema.jpg) no-repeat;
+	background-size: 100% 100%;
+	font-family: verdana;
+	background-attachment: fixed;
+text-align: center;
+
+
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+}
+section p{
+	color: yellow;
+}
+section h1{
+	color: white;
+}
